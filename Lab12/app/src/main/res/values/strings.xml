@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Laboratorio12</string>
+    <string name="name">Sebastián Solorzano</string>
+    <string name="email">sol21826@uvg.edu.gt</string>
+    <string name="correo">Correo</string>
+    <string name="password">Password</string>
+    <string name="login">Iniciar Sesión</string>
+    <string name="empty">Empty</string>
+    <string name="failure">Failure</string>
+    <string name="success">Success</string>
+    <string name="def">Default</string>
+    <string name="logout">Cerrar Sesión</string>
+    <string name="session">Mantener Sesión Activa</string>
+    <string name="error_email_password">Correo o contraseña incorrecta</string>
+    <string name="textDefault">Selecciona una opción</string>
+    <string name="textSuccess">¡Operación exitosa!</string>
+    <string name="textFailure">¡Operación fallida!</string>
+    <string name="textEmpty">Sin resultados</string>
+
+</resources>
